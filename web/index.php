@@ -40,7 +40,11 @@
 
         <footer class="footer mt-auto py-3">
             <div class="container">
-                <p><?php echo(time()) ?></p>
+                <p><?php 
+                    $datet = new DateTime();
+                    $tz = $datet->getTimezone();
+                    echo $tz->getName();
+                ?></p>
             </div>
         </footer>
     </main>
