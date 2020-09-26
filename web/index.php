@@ -16,11 +16,11 @@
 
     <main>
         <div class="jumbotron jhome">
-            <h1 class="display-4">Hello, world!</h1>
-            <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+            <h1 class="display-4">Welcome to my Website!</h1>
+            <p class="lead">This is a simple website meant for storing and displaying my CSE 341 assignments that I make through the semester.</p>
             <hr class="my-4">
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+            <p>If you want to view my assignments either click the "Assignments" tab in the navbar or you can click the button below.</p>
+            <a class="btn btn-dark btn-lg" href="/view/assignments.php" role="button">Assignments</a>
         </div>
 
         <div class="container likes">
@@ -37,5 +37,11 @@
                 </div>
             </div>
         </div>
+
+        <footer class="footer mt-auto py-3">
+            <div class="container">
+                <p><?php echo(time()) ?></p>
+            </div>
+        </footer>
     </main>
 </body>

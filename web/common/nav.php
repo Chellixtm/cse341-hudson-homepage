@@ -1,4 +1,4 @@
-<nav class="navbar navbar-dark bg-dark">
+<nav class="navbar navbar-dark bg-dark fixed-top">
   <a class="navbar-brand" href="/index.php">Hudsons Web</a>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
