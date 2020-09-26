@@ -31,7 +31,7 @@
                     <p>I always enjoy traveling to national parks and seeing the beautiful world around us. It's even better if I can go with my wife.</p>
                 </div>
                 <div class="col-lg">
-                    <img src="/images/cheeseZombie.png" class="round-img" height="150px" width="150px" />
+                    <img src="/images/cheeseZombies.png" class="round-img" height="150px" width="150px" />
                     <h2>Cooking</h2>
                     <p>Cooking has been a hobby of mine as long as I could reach the stove. I will try making anything that piques my interest.</p>
                 </div>
