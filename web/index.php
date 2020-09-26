@@ -42,8 +42,7 @@
             <div class="container">
                 <p><?php 
                     $datet = new DateTime();
-                    $tz = $datet->getTimezone();
-                    echo $tz->getName();
+                    echo $datet->format('F d, Y')
                 ?></p>
             </div>
         </footer>
