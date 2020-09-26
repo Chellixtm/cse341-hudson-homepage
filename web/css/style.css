@@ -11,3 +11,11 @@
 .likes {
     text-align: center;
 }
+
+.fhome {
+    text-align: center;
+}
+
+.fhome hr {
+    width: 75%;
+}
