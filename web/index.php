@@ -37,14 +37,14 @@
                 </div>
             </div>
         </div>
-
-        <footer class="footer mt-auto py-3">
-            <div class="container">
-                <p><?php 
-                    $datet = new DateTime();
-                    echo $datet->format('F d, Y')
-                ?></p>
-            </div>
-        </footer>
     </main>
+
+    <footer class="footer mt-auto py-3">
+        <div class="container">
+            <p>@<?php
+                $datet = new DateTime();
+                echo $datet->format('F d, Y')
+                ?></p>
+        </div>
+    </footer>
 </body>
