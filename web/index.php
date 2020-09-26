@@ -9,11 +9,11 @@
 </head>
 
 <body>
-    <header>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . '/common/header.php'; ?>
-    </header>
-
     <nav>
         <?php include $_SERVER['DOCUMENT_ROOT'] . '/common/nav.php'; ?>
     </nav>
+
+    <main>
+        <p>Testing out the page layout.</p>
+    </main>
 </body>
