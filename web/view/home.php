@@ -29,6 +29,13 @@
         </div>
 
         <div class="container likes">
+        <div class="row">
+                <div class="col-lg">
+                    <img src="/images/profile.png" class="round-img" height="250px" width="250px" />
+                    <h2>Mitchell Hudson</h2>
+                    <p>Hello! My name is Mitchell Hudson. I am a senior attending BYU-I. I enjoy making web applications and learning how it all works. I also really enjoy visiting national parks, cooking, playing games, and spending time with my wife.</p>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg">
                     <img src="/images/yellowstone.png" class="round-img" height="150px" width="150px" />
