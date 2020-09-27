@@ -17,7 +17,7 @@
     <main>
         <div class="jumbotron jhome">
             <? if(isset($_COOKIE['visited'])) {
-                echo("<h1 class='display-4'>Welcome Back to my Website!</h1>");
+                echo("<h1 class='display-4'>Welcome Back!</h1>");
             } else {
                 echo("<h1 class='display-4'>Welcome to my Website!</h1>");
             }
