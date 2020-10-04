@@ -15,10 +15,28 @@
     </nav>
 
     <main>
-        <div class="jumbotron">
-            <h1 class="display-4">Coming Soon</h1>
-            <hr class="my-4">
-            <p>Assignments will be here once I have them and link them.</p>
+        <div class="container margin-assign">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <div class="card mb-3">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img src="/images/w3preview.png" class="card-img" alt="Preview of website linked" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">W3 Shopping-Cart</h5>
+                                    <p class="card-text">This website was created to show a fully working shopping cart using php Sessions.</p>
+                                    <p class="card-text"><small class="text-muted">Submited Oct 3, 2020</small></p>
+                                    <a href="https://hidden-beach-62197.herokuapp.com/index.php" class="btn btn-success">Go to Site</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2"></div>
+            </div>
         </div>
     </main>
 </body>

@@ -62,6 +62,6 @@
     </footer>
 </body>
 <?php if (!isset($_COOKIE['visited'])) {
-    setcookie('visited', 'true');
+    setcookie('visited');
 } ?>
 </html>
